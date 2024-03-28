@@ -1,0 +1,80 @@
+html{
+    font-family: 'Lato', sans-serif;
+}
+
+.tongthe{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.main{
+    margin: 0 auto;
+}
+
+.maincontent{
+    width: 65%;
+    float: left;
+    background-color: lavender;
+    padding: 10px 10px;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    color:magenta;
+    border: 3px solid yellow;
+    background-color: #7efff5;
+    text-align: center;
+    padding-top: 30px;
+    height: 80px;
+}
+
+.information{
+    color: #38ada9;
+    margin-top: 30px;
+}
+
+.image{
+    width: 35%;
+    float: left;
+    position: relative;
+    left: 800px;
+    bottom: 650px;
+}
+.myname{
+    position: relative;
+    top: 425px;
+    left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #d35400;
+    padding-top: 3px;
+}
+
+.content{
+    color: #6cdaee;
+}
+
+#avatar{
+    border-radius: 50%;
+}
+#leon{
+    position: fixed;
+    right: 20px;
+}
+
+h3{
+    font-size: 20px;
+    color:mediumvioletred;
+    margin-bottom: auto;
+    text-decoration-line: underline;
+}
+
+h2{
+    font-size: 30px;
+    color:navy;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
